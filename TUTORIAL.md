@@ -16,4 +16,9 @@ After you press enter it will look like this..
 Enter your discord auth code, then press enter.
 If you need to know how to find it click [this link](https://www.androidauthority.com/get-discord-token-3149920/)
 
-# We use the auth to look into the channels you type in to see when you type a command, it also allows to send messages and edit them.
+We use the auth to look into the channels you type in to see when you type a command, it also allows to send messages and edit them.
+
+
+After that, it will ask for a prefix, enter what you want the command prefix to be, then press enter
+
+Once it says "session connected" then you can enter any channel and type "(prefix)cmds" and it will edit the msg with the cmds list.
