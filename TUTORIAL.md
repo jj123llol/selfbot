@@ -1,4 +1,14 @@
-# New Selfbot docs
+# Installer Docs
+
+When you first load it up, it will tell you to press "enter" to install, just do as it says
+
+It will close when its installed, it will install where-ever the exe file is.
+
+If you already have it installed it will update it to the new version
+
+
+
+# New Selfbot Docs
 
 When you first open the exe it will look like this..
 
