@@ -32,3 +32,11 @@ We use the auth to look into the channels you type in to see when you type a com
 After that, it will ask for a prefix, enter what you want the command prefix to be, then press enter
 
 Once it says "session connected" then you can enter any channel and type "(prefix)cmds" and it will edit the msg with the cmds list.
+
+
+
+# Wl and UnWl info
+
+Wl command allows others to use your commands, you can do {prefix}wl (@someone) to whitelist only them, or whitelist channels by just doing {prefix}wl
+
+UnWl command removes the permission of someone to use your commands, you can do {prefix}unwl (@someone) to unwhitelist only them, or unwhitelist channels by just doing {prefix}unwl
