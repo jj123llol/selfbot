@@ -10,6 +10,8 @@ If you already have it installed it will update it to the new version
 
 # New Selfbot Docs
 
+RUN THE NEW SELFBOT.EXE, NOT THE GUI!!!!!
+
 When you first open the exe it will look like this..
 
 ![image](https://github.com/jj123llol/selfbot/assets/115508192/623bf3c3-8b2e-48ca-baed-69c575fda3c8)
