@@ -13,7 +13,8 @@ If you already have it installed it will update it to the new version
 RUN THE NEW SELFBOT.EXE, NOT THE GUI!!!!!
 
 When you first open the exe it will look like this..
-![image](https://github.com/jj123llol/selfbot/assets/115508192/bad2f25a-6a2f-4088-922d-a2c7945f4c8f)
+![image](https://github.com/jj123llol/selfbot/assets/115508192/1da79094-7bbc-415c-99d6-ebb407268156)
+
 
 Enter your discord auth code, then press enter.
 If you need to know how to find it click [this link](https://www.androidauthority.com/get-discord-token-3149920/)
